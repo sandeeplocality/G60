@@ -7,6 +7,7 @@ using MySql.Data.MySqlClient;
 
 namespace G60
 {
+	/*sample comment*/
     public class G60_Data
     {
         public DataTable get_database_name(string recSerialNumber)
